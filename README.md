@@ -1,2 +1,2 @@
 # Angular_SpringBoot
-This is develop branch and this project related to spring boot and angular 
+This project related to spring boot and angular CRUD operation
